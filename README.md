@@ -18,59 +18,75 @@
 ## 🚀 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404D59?style=flat&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 CS Student passionate about technology  
-- 🌱 Currently learning **MERN, Machine Learning, DSA**  
-- 🧠 Love building real-world projects  
-- 🐧 Linux enthusiast  
-- 💬 Ask me about Programming, Tech & Projects  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 📂 Tech Stack (Structured)
+## 📂 Tech Stack 
 
 ```dart
 class Nilangan extends Developer {
 
   final skills = {
-    "Languages": ["Python", "Java", "C++", "JavaScript"],
+    "Languages": ["Python", "JavaScript"],
     "Frontend": ["HTML", "CSS", "React"],
-    "Backend": ["Node.js", "PHP"],<div align="center"> <a href="https://github.com/NilanganDutta05"> <img src="https://github-readme-stats.vercel.app/api?username=NilanganDutta05&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NilanganDutta05&theme=tokyonight" width="48%"/> </a> </div>
-    "Database": ["MySQL", "Firebase"],
-    "Tools": ["Git", "VSCode", "Linux"],
+    "Backend": ["Node.js", "PHP"],
+    "Database": ["MySQL", "MongoDB"],
+    "Tools": ["Git", "VSCode", ],
     "Learning": ["MERN", "ML", "DSA"]
   };
 
 }
 ```
 
-<div align="center"> <a href="https://github.com/NilanganDutta05"> <img src="https://github-readme-stats.vercel.app/api?username=NilanganDutta05&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NilanganDutta05&theme=tokyonight" width="48%"/> </a> </div>
+ ## 👨‍💻 About Me
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilanganDutta05&layout=compact&theme=tokyonight"/> </div>
-
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **CS Student passionate about technology**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Currently learning **MERN, Machine Learning, DSA** <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  **Love building real-world projects**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **Ask me about Programming, Tech & Projects.** <br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;7.2 percent of this traffic comes from people searching the term **‘Google’**.<br>
 <div align="center">
 
-😵 → 😌 → 😲 → 🔁
+---
+     
+**Code Cycle** <br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
 
-🌐 GitHub: [@NilanganDutta05](https://github.com/NilanganDutta05)
+---
 
-📧 Email: (Add if you want)
+<p align="center">
 
-💼 LinkedIn: (Add if you want)
+<a href="https://github.com/NilanganDutta05">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nilangan-dutta">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:nilangandutta05official@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+</a>
+
+</p>
+
+---
