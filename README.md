@@ -43,7 +43,7 @@ class Nilangan extends Developer {
     "Frontend": ["HTML", "CSS", "React"],
     "Backend": ["Node.js", "PHP"],
     "Database": ["MySQL", "MongoDB"],
-    "Tools": ["Git", "VSCode", ],
+    "Tools": ["Git", "VSCode"],
     "Learning": ["MERN", "ML", "DSA"]
   };
 
